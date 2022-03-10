@@ -3,4 +3,4 @@
   become: all
   tasks:
   - name: i want to ping all nodes
-    ping:
+    ping: 192.60.75.86
